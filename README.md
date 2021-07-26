@@ -5,7 +5,7 @@ The python script models motor protein walking on a microtubule track inside a c
 
 Reactions and their rates in the model:
 
-           Reaction             Rates 
+Reaction                        Rates 
 Forward movement on the track - k 
 Backward movement on the track - gamma
 Dissociation from the track - delta
